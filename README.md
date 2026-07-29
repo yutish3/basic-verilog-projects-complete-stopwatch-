@@ -20,7 +20,7 @@ how the different projects are connected
 <img width="1158" height="654" alt="image" src="https://github.com/user-attachments/assets/b917faca-26e4-4c9f-bdc2-228a30a6f1f1" />
 
 
-now here is every project name , purpose , result and diagram
+now here is every project name , purpose and result
 
 &#9679; 1.1 Half_adder :- it is used as a basic single bit binary addition
 
@@ -72,19 +72,34 @@ now here is every project name , purpose , result and diagram
 
 &#9679; 2.2 Clock divider :- main use of this is to reduce high frequency input clock signal down to lower frequench output signal 
 
+<img width="938" height="402" alt="image" src="https://github.com/user-attachments/assets/bbdb8208-e67d-420f-817b-f3baaa84e1c7" />
 
 
 
 &#9679; 2.3 D flip flop :- main use of d flip flop is to capture and store 1 bit of data with sync of a clock of the cpu
 
+<img width="828" height="512" alt="image" src="https://github.com/user-attachments/assets/43350d85-5782-4417-a88a-db5541e82307" />
 
 
 
 &#9679; 2.4 stopwatch counter :- simple 8 bit stopwatch counter
 
+<img width="698" height="1228" alt="image" src="https://github.com/user-attachments/assets/4114c0fb-f29c-4914-90dd-5daaab1d7a87" />
 
 
 
 &#9679; 3 finite state machine stopwatch (it combines all the things we made this far in 1 and 2) :- this is a stopwatch which calculates , stores and a finite state machine which synchronizes the clock cycles and memory 
+
+<img width="1158" height="654" alt="image" src="https://github.com/user-attachments/assets/b917faca-26e4-4c9f-bdc2-228a30a6f1f1" />
+
+
+
+&#9679; this projects fits the theme no internet as it can work with any access of internet 
+
+&#9679; to run this locally you will need 
+&bullet; Icarus Verilog
+&bullet; and verilog vs code extension
+
+to make it so the reviewers dont have to run the program i added the image of every result to make it easy
 
 
