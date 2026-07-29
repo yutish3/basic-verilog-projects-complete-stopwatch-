@@ -20,4 +20,6 @@ how the different projects are connected
 <img width="1158" height="654" alt="image" src="https://github.com/user-attachments/assets/b917faca-26e4-4c9f-bdc2-228a30a6f1f1" />
 
 
+now here is every project name , purpose , result and diagram
+
 
